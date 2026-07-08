@@ -46,12 +46,6 @@ Businesses often struggle to answer:
 
 ---
 
-## 📊 Dashboard
-
-*(We'll insert screenshots here.)*
-
----
-
 ## 📈 KPIs
 
 - Total Customers
