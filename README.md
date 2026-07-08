@@ -31,7 +31,7 @@ An interactive **Power BI dashboard** designed to analyse customer behaviour, id
 
 ## 📌 Project Overview
 
-Customer retention is one of the most important business metrics. This project analyses customer purchasing behaviour to identify retention patterns and improve customer loyalty.
+Customer retention plays a critical role in sustainable business growth. This Power BI dashboard analyses customer behaviour, purchasing trends, and retention metrics to help organisations identify valuable customer segments, improve engagement strategies, and support informed business decisions through interactive data visualisation.
 
 ---
 
@@ -46,13 +46,16 @@ Businesses often struggle to answer:
 
 ---
 
-## 📈 KPIs
+## 📈 Business KPIs
 
-- Total Customers
-- Returning Customers
-- Customer Retention Rate
-- Revenue
-- Average Order Value
+| KPI | Business Purpose |
+|------|------------------|
+| 👥 Total Customers | Measure customer base size |
+| 🔄 Returning Customers | Evaluate customer loyalty |
+| 📊 Customer Retention Rate | Track long-term customer engagement |
+| 💰 Revenue | Monitor business performance |
+| 🛒 Average Order Value | Understand customer spending behaviour |
+| 📦 Total Orders | Measure purchasing activity |
 
 ---
 
@@ -68,19 +71,33 @@ Businesses often struggle to answer:
 
 ## 💡 Key Insights
 
-- Identified high-value customer segments.
-- Improved visibility into customer retention trends.
-- Highlighted repeat purchase behavior.
-- Supported targeted retention strategies.
+- High-value customers generated a significant share of total revenue.
+- Returning customers consistently contributed more revenue than first-time buyers.
+- Customer purchasing behaviour varied across different customer segments.
+- Certain customer groups demonstrated stronger long-term retention.
+- Revenue trends highlighted opportunities for targeted marketing campaigns.
 
 ---
 
-## 🚀 Future Improvements
+## 💼 Business Value
 
-- Customer Churn Prediction
-- Machine Learning Integration
-- Automated Refresh
-- Executive Dashboard
+This dashboard enables businesses to:
+
+- Identify valuable customer segments.
+- Improve customer retention strategies.
+- Monitor business KPIs through an interactive dashboard.
+- Support data-driven marketing decisions.
+- Increase customer lifetime value through targeted campaigns.
+
+---
+
+## 📈 Business Recommendations
+
+- Launch loyalty programs for high-value customers.
+- Develop personalised marketing campaigns.
+- Monitor customer churn regularly.
+- Focus retention efforts on at-risk customer segments.
+- Track KPIs continuously to evaluate business performance.
 
 ---
 
